@@ -1,5 +1,7 @@
 # Roles And Permissions For Laravel 5
 
+* doo n't forget `php artisan config:clear`
+
 Powerful package for handling roles and permissions in Laravel 5 (5.1 and also 5.0).
 
 - [Installation](#installation)
